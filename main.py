@@ -35,3 +35,7 @@ def is_identity_matrix(matrix):
 
 matrix = np.diag(np.arange(1, 6))
 print(f"матрица: {is_identity_matrix(matrix)}")
+
+# меняю код чтобы можно было добавить ревьюера
+
+print('как у вас дела?')
